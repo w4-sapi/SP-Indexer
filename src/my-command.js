@@ -138,7 +138,7 @@ export default function() {
     indexTextfiled.setStringValue(indexString);
   }
   
-   sketch.UI.message("indexing Finish! 🧹");
+   sketch.UI.message("indexing Finish! 🧹 wow");
 }
 
 function findInstanceAndAddInfo(targetArtboard, symbolMasterInfo, artboardName, navigatorStr, pageNumber, artboardNameWithFullIndex){
