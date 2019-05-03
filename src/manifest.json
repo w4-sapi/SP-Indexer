@@ -1,0 +1,16 @@
+{
+  "icon": "icon.png",
+  "commands": [
+    {
+      "name": "Index Page & Artboard",
+      "identifier": "sp-indexer.my-command-identifier",
+      "script": "./my-command.js"
+    }
+  ],
+  "menu": {
+    "title": "SP-Indexer",
+    "items": [
+      "sp-indexer.my-command-identifier"
+    ]
+  }
+}
